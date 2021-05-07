@@ -14,12 +14,11 @@ Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
 
 # Bot Token
 
-**1 - .env dosyasına giriyoruz
+**1 - .env dosyasına giriyoruz**
 
 
 **3 - Büyük Harfle Yazılan BOT TOKEN yerine Botunuzun Tokenini Yapıştırın.**
 
 
 
-<img src= "https://cdn.discordapp.com/attachments/828654077373710396/828654668729155584/IMG_20210405_193701.jpg"/></a>
 <img src= "https://cdn.discordapp.com/attachments/828654077373710396/828654668900859976/IMG_20210405_193737.jpg"></a>
