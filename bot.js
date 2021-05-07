@@ -12,8 +12,9 @@ client.on('message', msg => {
 });
 client.commands = new Discord.Collection();
 client.aliases = new Discord.Collection();
-fs.readdir('./cmd/', (err, files) => {
+fs.readdir('./komutlar/', (err, files) => {
 if (err) console.error(err);
 console.log(`${files.length} komut yüklenecek.`);
 
 client.login('procces.env.TOKEN');
+//Rixnux Code
