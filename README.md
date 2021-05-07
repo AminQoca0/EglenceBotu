@@ -3,15 +3,15 @@ Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
 #Kurulum
 **İlk Önce Düşündüyüm kadar herkes bu projeyi glitchden yapıcaktır Yapmayanlar içinde Dosya Verdim Discorddan Readme.md de onunda Yapılışını Gösterdim.**
 
-#Sahip Id
+# Sahip Id
 
-**ilk önce ayarlar.json dosyasına girip //"sahip": "",\\ kısmından iki tırnağın arasına kendi ID'nizi Girin**
+**ilk önce ayarlar.json dosyasına girip "sahip": "SAHİP ID",kısmından iki tırnağın arasına SAHIP ID yerini silipkendi ID'nizi Girin**
 
-#Bot Prefix
+# Bot Prefix
 
-**Tekrardan ayarlar.json dosyasına girip //"prefix": ""\\ kısmından iki tırnağın içine botunuzun prefixini yazın örnek : !,.,!!**
+**Tekrardan ayarlar.json dosyasına girip //"prefix": "PREFİX"kısmından iki tırnağın içine PREFİX sözünü silip botunuzun prefixini yazın örnek : !,.,!!**
 
-#Bot Token
+# Bot Token
 
 **1 - .env dosyasına giriyoruz
 
