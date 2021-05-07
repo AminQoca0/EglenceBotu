@@ -11,7 +11,8 @@
     "discord.js": "^12.5.3",
     "join": "^3.0.0",
     "moment": "^2.29.1",
-    "jimp": "^0.12.1"
+    "jimp": "^0.12.1",
+    "random-anime": "^1.0.6"
   },
   "engines": {
     "node": "12.x"
