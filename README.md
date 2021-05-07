@@ -1,7 +1,8 @@
 # EglenceBotu
 Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
-#Kurulum
-**İlk Önce Düşündüyüm kadar herkes bu projeyi glitchden yapıcaktır Yapmayanlar içinde Dosya Verdim Discorddan Readme.md de onunda Yapılışını Gösterdim.**
+
+# Kurulum
+**İlk Önce Düşündüyüm kadar herkes bu projeyi glitchden yapıcaktır onun için onun açıklamasını verdim Kurulum Aşağıda.**
 
 # Sahip Id
 
