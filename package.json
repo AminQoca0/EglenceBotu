@@ -12,7 +12,8 @@
     "join": "^3.0.0",
     "moment": "^2.29.1",
     "jimp": "^0.12.1",
-    "random-anime": "^1.0.6"
+    "random-anime": "^1.0.6",
+    "common-tags": "^1.8.0"
   },
   "engines": {
     "node": "12.x"
