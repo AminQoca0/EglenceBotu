@@ -17,7 +17,7 @@ Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
 **1 - .env dosyasına giriyoruz**
 
 
-**3 - Büyük Harfle Yazılan BOT TOKEN yerine Botunuzun Tokenini Yapıştırın.**
+**2 - Büyük Harfle Yazılan BOT TOKEN yerine Botunuzun Tokenini Yapıştırın.**
 
 
 
