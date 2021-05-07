@@ -14,15 +14,10 @@ Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
 
 # Bot Token
 
-**1 - .env dosyasına giriyoruz**
+**1 - .env dosyasına giriyoruz
 
 
-
-**2 - Add a Variable Tuşuna Basıyoruz**
-
-
-
-**3 Variable name'yi token yapiyoruz Variable Valueye ise botunuz tokenini yazıyoruz**
+**3 - Büyük Harfle Yazılan BOT TOKEN yerine Botunuzun Tokenini Yapıştırın.**
 
 
 
