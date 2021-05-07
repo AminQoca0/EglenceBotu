@@ -9,19 +9,19 @@ Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
 
 # Bot Prefix
 
-**Tekrardan ayarlar.json dosyasına girip //"prefix": "PREFİX"kısmından iki tırnağın içine PREFİX sözünü silip botunuzun prefixini yazın örnek : !,.,!!**
+**Tekrardan ayarlar.json dosyasına girip "prefix": "PREFİX"kısmından iki tırnağın içine PREFİX sözünü silip botunuzun prefixini yazın örnek : !,.,!!**
 
 # Bot Token
 
-**1 - .env dosyasına giriyoruz
+**1 - .env dosyasına giriyoruz**
 
 
 
-2 - Add a Variable Tuşuna Basıyoruz
+**2 - Add a Variable Tuşuna Basıyoruz**
 
 
 
-3 Variable name'yi token yapiyoruz Variable Valueye ise botunuz tokenini yazıyoruz**
+**3 Variable name'yi token yapiyoruz Variable Valueye ise botunuz tokenini yazıyoruz**
 
 
 
