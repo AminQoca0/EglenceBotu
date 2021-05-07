@@ -56,3 +56,10 @@ if (message.member.hasPermission("ADMINISTRATOR")) permlvl = 3;
 if (message.author.id === ayarlar.sahip) permlvl = 4;
 return permlvl;};
 client.login(process.env.token);
+client.on("message", wkbrl=> {
+  if (mesaj.content.toLowerCase() === "hmm") {
+   wkbrl.channel.send(
+      "Ne Düşüyon Acaba Lo?🤔"
+    );
+  }
+});
