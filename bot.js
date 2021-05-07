@@ -2,6 +2,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client();
 const ayarlar = serverConfig = require("./ayarlar.json");
 const moment = require('moment');
+var jimp = require('jimp');
 const { Client, Util } = require('discord.js');
 const fs = require('fs');
 require('./util/eventLoader.js')(client);
