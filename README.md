@@ -10,7 +10,7 @@ Amin Qoca'ya ve Rixnux Codeye ait olan Eğlence Botu Altyapısı.
 
 # Bot Prefix
 
-**Tekrardan ayarlar.json dosyasına girip "prefix": "PREFİX"kısmından iki tırnağın içine PREFİX sözünü silip botunuzun prefixini yazın örnek : !,.,!!**
+**Tekrardan ayarlar.json dosyasına girip "prefix": "PREFİX"kısmından iki tırnağın içine PREFİX sözünü silip botunuzun prefixini yazın örnek : ! | . | !! | $**
 
 # Bot Token
 
