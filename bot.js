@@ -63,3 +63,18 @@ client.on("message", wkbrl=> {
     );
   }
 });
+client.on("message", sa=> {
+
+  if (mesaj.content.toLowerCase() === "napim") {
+
+    sa.channel.send(
+
+      "👑Ooo Kral Lafı Koydu👑!"
+
+    );
+
+  }
+
+});
+
+
