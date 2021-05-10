@@ -5,8 +5,10 @@ module.exports.run = async (client, message, args) => {
         await message.channel.send(`Komutlar: \n${client.commands.map(props => `\`${props.help.name}\``).join(" | ")}`);
     } catch (e) {
         throw e;
-        console.log(`<@${message.author.id}> Komutlar komutunu kullandı`)
-    }
+        
+        
+        
+
 }
 
 module.exports.conf = {
